@@ -4,4 +4,4 @@ Modelovani a Gausian Splatting
 
 ### Co budeme používat
 Reality scan
-Lightfelt
+Lichtfelt
